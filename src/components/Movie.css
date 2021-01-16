@@ -1,8 +1,9 @@
+
 .movies .movie {
     background-color: white;
     margin-bottom: 70px;
     font-weight: 300;
-    padding: 20px;
+    padding: 40px;
     border-radius: 5px;
     color: #adaeb9;
     box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
@@ -52,4 +53,12 @@
   .movie .movie__year {
     margin-right: 10px;
     font-size: 14px;
+  }
+
+  .detail_title{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    height: 150px;
+    text-align: center;
   }
